@@ -150,7 +150,7 @@
             # 'partial-copy',
 
             # manage local, gitolite-controlled, copies of read-only upstream repos
-            # 'upstream',
+            'upstream',
 
             # updates 'description' file instead of 'gitweb.description' config item
             # 'cgit',
